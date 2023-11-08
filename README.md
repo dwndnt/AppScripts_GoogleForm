@@ -23,5 +23,5 @@ Sesuaikan allowedLatitude dan allowedLongitude dengan koordinat geografis yang d
 
 
 Note :
-ID_FORM1.js untuk 1 FORM GOOGLE
+ID_FORM1.js untuk 1 FORM GOOGLE ||
 ID_Form2++.js untuk >2 FORM GOOGLE
